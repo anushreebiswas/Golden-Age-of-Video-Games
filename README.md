@@ -20,7 +20,7 @@ In this project, we analyze the **top 400 best-selling video games** released be
 ## Technologies & Tools Used
 
 - **SQL** – For querying and aggregating data  
-- **PostgreSQL** – For running queries locally  
+- **PostgreSQL** – Relational Database engine  
 
 
 ---
